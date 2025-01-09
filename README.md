@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujan30
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning python/java
+- 👀 I’m interested in Entreprenuership and problem solving
+- 🌱 I’m currently learning NFC technologies
 - 📫 How to reach me: email me @ nandikolsujan@gmail.com
 
 <!---
