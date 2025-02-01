@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujan30
 - 👀 I’m interested in Entreprenuership and problem solving
-- 🌱 I’m currently learning NFC technologies
+- 🌱 I’m currently learning neuroscience, python, and data visualizations
 - 📫 How to reach me: email me @ nandikolsujan@gmail.com
 
 <!---
