@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Sujan30
-- 👀 I’m interested in Entreprenuership and problem solving
-- 🌱 I’m currently learning neuroscience, python, and data visualizations
-- 📫 How to reach me: email me @ nandikolsujan@gmail.com
+- Hi, I’m Sujan Nandikol Sunilkumar
+- I’m interested in using AI to boost productivity for enterprises, such as building AI workflows or AI agenets. 
+- I’m currently learning neuroscience, lang-chain, and machine learning
+- How to contact me: email me @ sujan.nandikolsunilkumar@sjsu.edu
+
+
 
 <!---
 Sujan30/Sujan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
